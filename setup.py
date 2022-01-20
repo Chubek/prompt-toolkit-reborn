@@ -19,7 +19,7 @@ def get_version(package):
 
 
 setup(
-    name="prompt_toolkit-reborn",
+    name="reborn",
     author="Jonathan Slenders - Stolen by Chubak Bidpaa (Because Colab is Stupid :( )",
     version=get_version("prompt_toolkit"),
     url="https://github.com/prompt-toolkit/python-prompt-toolkit",
