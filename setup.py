@@ -19,8 +19,8 @@ def get_version(package):
 
 
 setup(
-    name="prompt_toolkit",
-    author="Jonathan Slenders",
+    name="prompt_toolkit-reborn",
+    author="Jonathan Slenders - Stolen by Chubak Bidpaa (Because Colab is Stupid :( )",
     version=get_version("prompt_toolkit"),
     url="https://github.com/prompt-toolkit/python-prompt-toolkit",
     description="Library for building powerful interactive command lines in Python",
